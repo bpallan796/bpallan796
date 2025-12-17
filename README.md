@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Bruno 👋
 
-<!--
-**bpallan796/bpallan796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Business Analytics & Information Systems student at the University of Iowa. I build data projects and simple web apps, and I like turning messy datasets into clean insights.
 
-Here are some ideas to get you started:
+## What I’m working on
+- Portfolio website (Azure Static Web Apps)
+- Python data analysis projects (Pandas, visualization, modeling)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python (Pandas, data cleaning, APIs)
+- SQL (basics)
+- HTML/CSS/JavaScript (portfolio work)
+- Git/GitHub
+- Data visualization (Excel / charts / dashboards)
+
+## Featured Projects
+- **Project 1:** [Repo Name Here](https://github.com/bpallan796/REPO_LINK_HERE) — 1–2 lines on what it does  
+- **Project 2:** [Repo Name Here](https://github.com/bpallan796/REPO_LINK_HERE) — 1–2 lines on what it does  
+
+## Links
+- Portfolio: https://YOUR-PORTFOLIO-LINK
+- LinkedIn: https://YOUR-LINKEDIN-LINK
