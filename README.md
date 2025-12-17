@@ -14,9 +14,9 @@ I’m a Business Analytics & Information Systems student at the University of Io
 - Data visualization (Excel / charts / dashboards)
 
 ## Featured Projects
-- **Project 1:** [Repo Name Here](https://github.com/bpallan796/REPO_LINK_HERE) — 1–2 lines on what it does  
-- **Project 2:** [Repo Name Here](https://github.com/bpallan796/REPO_LINK_HERE) — 1–2 lines on what it does  
+- **Project 1:** [[Repo Name Here](https://github.com/bpallan796/REPO_LINK_HERE)](https://github.com/bpallan796/Bais3000-Portfolio) — We successfully created a website that we can track activity on 
+- **Project 2:** [[Repo Name Here](https://github.com/bpallan796/REPO_LINK_HERE)](https://github.com/bpallan796/3300-bpallan-api) — We successfully predicted salaries based on data   
 
 ## Links
-- Portfolio: https://YOUR-PORTFOLIO-LINK
-- LinkedIn: https://YOUR-LINKEDIN-LINK
+- Portfolio: [https://YOUR-PORTFOLIO-LINK](https://happy-ground-01a722b10.3.azurestaticapps.net/)
+- LinkedIn: [https://YOUR-LINKEDIN-LINK](https://www.linkedin.com/in/bruno-pallan-6018b21a2/)
